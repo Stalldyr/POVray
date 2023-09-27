@@ -1,17 +1,3 @@
-// This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License.
-// To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a
-// letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
-
-// woodbox.pov
-// POV-Ray scene file by Dan Farmer
-// Copyright POV-Team, 1995
-// Demonstrates some of the woods.inc textures.
-// Several wooden spheres (and one glass one), in and around
-// a wooden box.
-//
-// -w320 -h240
-// -w800 -h600 +a0.3
-
 #version 3.7;
 global_settings { assumed_gamma 1.2 } 
 
